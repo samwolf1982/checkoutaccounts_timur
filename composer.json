@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lazuli/vsxlsx": "^0.0.1"
+    }
+}
